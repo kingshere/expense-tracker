@@ -1,0 +1,68 @@
+const Expensecategories = [
+  {
+    label: "Clothes",
+    value: 1,
+    icon: "tshirt",
+    backgroundColor: "#F614DF",
+    backgroundColor1: "#2A69FC",
+    backgroundColor2: "#14F6EE",
+  },
+  {
+    label: "Foods",
+    value: 2,
+    icon: "utensils",
+    backgroundColor: "#34C8E6",
+    backgroundColor1: "#4A5AE9",
+    backgroundColor2: "#EC6EAD",
+  },
+  {
+    label: "Fuel",
+    value: 3,
+    icon: "gas-pump",
+    backgroundColor: "#4CA2CD",
+    backgroundColor1: "#9851E9",
+    backgroundColor2: "#EE0979",
+  },
+  {
+    label: "Gadget",
+    value: 4,
+    icon: "mobile",
+    backgroundColor: "#F717FF",
+    backgroundColor1: "#FB6186",
+    backgroundColor2: "#FB7C1B",
+  },
+
+  {
+    label: "School",
+    value: 5,
+    icon: "school",
+    backgroundColor: "#F33098",
+    backgroundColor1: "#F63145",
+    backgroundColor2: "#F67214",
+  },
+  {
+    label: "Transportation",
+    value: 6,
+    icon: "car",
+    backgroundColor: "#CDF138",
+    backgroundColor1: "#EB9A3D",
+    backgroundColor2: "#FF36A8",
+  },
+  {
+    label: "Utility Bill",
+    value: 7,
+    icon: "newspaper",
+    backgroundColor: "#F66031",
+    backgroundColor1: "#FBBB28",
+    backgroundColor2: "#B3F614",
+  },
+  {
+    label: "Others",
+    value: 8,
+    icon: "comment-dots",
+    backgroundColor: "#fcb045",
+    backgroundColor1: "#fd1d1d",
+    backgroundColor2: "#833ab4",
+  },
+];
+export default Expensecategories;
